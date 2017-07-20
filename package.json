@@ -1,0 +1,16 @@
+{
+  "name": "play-mssql",
+  "version": "1.0.0",
+  "description": "a nodejs app that communicates with various artifacts on a locally running instance of mssql server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mehul chopra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "json2csv": "^3.9.1",
+    "mssql": "^4.0.4"
+  }
+}
